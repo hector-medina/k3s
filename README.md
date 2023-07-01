@@ -2,8 +2,9 @@
 
 ## Requirements.
 
-In order to use this repository, you will need the following hardware:
+In order to use this repository, you will need:
 - Raspberry Pi 4
+- Ubuntu 23.04
 
 ## Installation.
 
