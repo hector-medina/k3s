@@ -11,5 +11,6 @@ In order to install this image, the Raspberry Pi Imager will be used https://www
 ### Install K3S.
 
 ````
-curl -sfL https://get.k3s.io | K3S_KUBECONFIG_MODE="G44" sh -s -
+sudo su -
+curl -sfL https://get.k3s.io | sh -
 ````
